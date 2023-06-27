@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Assignment1</string>
+    <string name="showText" tools:ignore="StringEscaping">Software engineering is a varied and valuable approach devoted to the design and development of computer applications and programs. Success in software development typically requires technical expertise, math and science knowledge, clear communication, and analytical skills. Software engineers must be proficient with operating systems like Windows, iOS, and Android as well as web developments like HTML, CSS, and JavaScript. Professionals in this field are also responsible for maintaining and modifying existing software and testing for possible defects and performance improvements. Software engineering is an integral part of any growing business due to its ubiquity across multiple industries, so these roles are often in demand and tend to pay well.</string>
+
+</resources>
